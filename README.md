@@ -2,6 +2,9 @@
 
 # rtemis.dplot3: Interactive visualization from rtemis legacy
 
+> [!IMPORTANT]
+> The current rtemis visualization packages is now [rtemis.draw](https://www.github.com/rtemis-org/draw). `rtemis.dplot3` is maintained for legacy purposes, and is unlikely to receive updates.
+
 `rtemis.dplot3` holds the `draw_*()` functions that began in the
 [rtemis](https://github.com/rtemis-org/rtemis) package: interactive 'plotly',
 'networkD3', 'threejs' and 'leaflet' graphics, with rtemis themes
