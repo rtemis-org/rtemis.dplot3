@@ -1,0 +1,16 @@
+^__dev$
+^.claude$
+^\.github$
+^.*\.code-workspace$
+^revdep$
+^specs$
+^AGENTS\.md$
+^CLAUDE\.md$
+^justfile$
+^rhub$
+^cran-comments\.md$
+^\.lintr$
+^LICENSE\.md$
+^tools$
+^coverage$
+^data-raw$
